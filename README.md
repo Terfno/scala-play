@@ -8,5 +8,9 @@ scala-play$ make dev
 ︙
 name [play-scala-seed]: scala-play
 organization [com.example]: terfno
+```
 
+```sh
+/scala# cd scala-play
+/scala/scala-play# sbt run
 ```
